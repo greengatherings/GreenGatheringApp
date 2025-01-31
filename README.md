@@ -1,4 +1,4 @@
-# My React App
+# Green Gatherings App
 
 This is a simple React application built with TypeScript. Below are the details on how to set up and run the project.
 
