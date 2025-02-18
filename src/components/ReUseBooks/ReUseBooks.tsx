@@ -18,7 +18,7 @@ const ReUseBooksApp: React.FC = () => {
                         4. Once the books are exchanged, receiver is expected to send and email confirming the collection mentioning donors Name<br/>
                         5. System is updated according to close the requirements.<br/>
                     </p>
-                    <p style={{ fontSize: '1.3em' }}>We are thrilled to announce the successful completion of the ReUse School Books 2024! With over 600 requirements registered, we are proud to report that 60% of participants were able to find a perfect match for their needs. This remarkable achievement highlights the power of community and the importance of sustainability in education.</p>
+                    <p style={{ fontSize: '1.3em' }}>We are thrilled to announce the successful completion of the ReUse School Books 2024! With over 745 requirements registered, we are proud to report that 55% of participants were able to find a perfect match for their needs. This remarkable achievement highlights the power of community and the importance of sustainability in education.</p>
                     <br />
                     <div style={{ display: 'flex', alignItems: 'center' }}>
                         <span style={{ fontSize: '2em', marginRight: '10px', animation: 'wave 1s infinite' }}>👉</span>

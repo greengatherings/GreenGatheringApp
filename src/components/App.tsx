@@ -54,7 +54,8 @@ const HomeApp: React.FC = () => {
         <div>
             <div style={{ textAlign: 'center', backgroundColor: '#f0f8ff', padding: '20px' }}>
                 <h1 style={{ color: 'green', fontWeight: 'bold', fontSize: '2.5em', margin: '20px 0' }}>
-                    Welcome to Green Gatherings
+		<img src="images/logo2.png" />
+
                 </h1>
             </div>
             <hr />
