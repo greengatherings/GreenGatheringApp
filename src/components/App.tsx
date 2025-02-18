@@ -53,10 +53,7 @@ const HomeApp: React.FC = () => {
     return (
         <div>
             <div style={{ textAlign: 'center', backgroundColor: '#f0f8ff', padding: '20px' }}>
-                <h1 style={{ color: 'green', fontWeight: 'bold', fontSize: '2.5em', margin: '20px 0' }}>
-		<img src="images/logo2.png" />
-
-                </h1>
+                <h1> <img src="images/logo2.png" /> </h1>
             </div>
             <hr />
             <div style={{ textAlign: 'center', backgroundColor: '#f0f8ff', padding: '20px' }}>
@@ -65,7 +62,6 @@ const HomeApp: React.FC = () => {
                 </p>
                 <br/>
                 <a style={{fontSize: '2em'}} href="javascript:void(0)" onClick={reUseBook_click}>ReUseBooks Initiative</a>
-                
             </div>
         </div>
     );

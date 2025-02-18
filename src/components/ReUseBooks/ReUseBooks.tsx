@@ -8,7 +8,7 @@ const ReUseBooksApp: React.FC = () => {
             </h1>
             <hr />
             <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
-                <img src="/images/books.png" alt="Books for all" style={{ width: '300px', height: 'auto', marginRight: '20px' }} />
+                <img src="/images/books.png" alt="Books for all" style={{ width: '40%', height: 'auto', marginRight: '20px' }} />
                 <div style={{ textAlign: 'left' }}>
                     <p style={{ fontSize: '1.3em' }}>It is an initiative by Green Gatherings to provide a platform for donating and receiving used textbooks. Your contribution can make a significant impact to conserve environment. 
                     <br/><b>How it works:</b><br/>
