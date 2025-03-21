@@ -53,7 +53,7 @@ const HomeApp: React.FC = () => {
     return (
         <div>
             <div style={{ textAlign: 'center', backgroundColor: '#f0f8ff', padding: '20px' }}>
-                <h1> <img src="images/logo2.png" /> </h1>
+                <h1> <img src="images/logo3.png" /> </h1>
             </div>
             <hr />
             <div style={{ textAlign: 'center', backgroundColor: '#f0f8ff', padding: '20px' }}>

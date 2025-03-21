@@ -23,7 +23,14 @@ const ReUseBooksApp: React.FC = () => {
                     <div style={{ display: 'flex', alignItems: 'center' }}>
                         <span style={{ fontSize: '2em', marginRight: '10px', animation: 'wave 1s infinite' }}>👉</span>
                          <a href="https://forms.gle/7nYvr9tWazMYj1aG7" target="blank" style={{ color: 'white', backgroundColor: 'blue', padding: '10px 20px', textDecoration: 'none', borderRadius: '5px', fontSize: '1.5em' }}>
-                            Registration for 2025 is open Now
+                            Hyderabad-Registration for 2025 is open Now
+                        </a>
+                    </div>
+		    <br/>
+                    <div style={{ display: 'flex', alignItems: 'center' }}>
+                        <span style={{ fontSize: '2em', marginRight: '10px', animation: 'wave 1s infinite' }}>👉</span>
+                         <a href="https://forms.gle/sjey1XsSRFEXS6vF9" target="blank" style={{ color: 'white', backgroundColor: 'blue', padding: '10px 20px', textDecoration: 'none', borderRadius: '5px', fontSize: '1.5em' }}>
+                            Bengaluru-Registration for 2025 is open Now
                         </a>
                     </div>
                 </div>
